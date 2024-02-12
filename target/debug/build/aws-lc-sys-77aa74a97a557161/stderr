@@ -1,0 +1,2 @@
+libunwind not found. Disabling unwind tests.
+Copying platform assembly files from /home/gopi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/aws-lc-sys-0.13.0/aws-lc/generated-src/linux-x86_64/crypto/ to /home/gopi/aws_sha2/target/debug/build/aws-lc-sys-77aa74a97a557161/out/build/aws-lc/crypto
